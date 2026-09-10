@@ -19,30 +19,30 @@ sebagai tugas praktikum Pemrograman Mobile.
 ### 1. Light Mode (Pertemuan 2)
 
 **Halaman Informasi Dasar (`BasicInfoScreen`)**  
-![Basic Info Light Mode](Screenshots/Tampilan_Tugas_Pertemuan2-LightMode_(BasicInfo).png)
+![Basic Info Light Mode](Screenshots/Tampilan_Tugas_Pertemuan2-LightMode_(BasicInfo).jpeg)
 
 **Halaman Hubungi Kami (`HubungiKamiScreen`)**  
-![Hubungi Kami Light Mode](Screenshots/Tampilan_Tugas_Pertemuan2-LightMode_(HubungiKami-Default).png)
+![Hubungi Kami Light Mode](Screenshots/Tampilan_Tugas_Pertemuan2-LightMode_(HubungiKami-Default).jpeg)
 
 **Feedback Snackbar (`ShowSnackbar`)**  
-![Snackbar Light Mode](Screenshots/Tampilan_Tugas_Pertemuan2-LightMode_(HubungiKami-PesanTerkirim).png)
+![Snackbar Light Mode](Screenshots/Tampilan_Tugas_Pertemuan2-LightMode_(HubungiKami-PesanTerkirim).jpeg)
 
 ---
 
 ### 2. Dark Mode (Pertemuan 2)
 
 **Halaman Informasi Dasar (`BasicInfoScreen`)**  
-![Basic Info Dark Mode](Screenshots/Tampilan_Tugas_Pertemuan2-Dark%20Mode_(BasicInfo).png)
+![Basic Info Dark Mode](Screenshots/Tampilan_Tugas_Pertemuan2-DarkMode_(BasicInfo).jpeg)
 
 **Halaman Hubungi Kami (`HubungiKamiScreen`)**  
-![Hubungi Kami Dark Mode](Screenshots/Tampilan_Tugas_Pertemuan2-Dark%20Mode_(HubungiKami-Default).png)
+![Hubungi Kami Dark Mode](Screenshots/Tampilan_Tugas_Pertemuan2-DarkMode_(HubungiKami-Default).jpeg)
 
 **Feedback Snackbar (`ShowSnackbar`)**  
-![Snackbar Dark Mode](Screenshots/Tampilan_Tugas_Pertemuan2-Dark%20Mode_(HubungiKami-PesanTerkirim).png)
+![Snackbar Dark Mode](Screenshots/Tampilan_Tugas_Pertemuan2-DarkMode_(HubungiKami-PesanTerkirim).jpeg)
 
 ---
 
 ### 3. Lampiran Tugas Pertemuan 1
 
 **Tampilan Aplikasi Pertemuan 1**  
-![Tugas Pertemuan 1](Screenshots/Tampilan_Tugas_Pertemuan1.png)
+![Tugas Pertemuan 1](Screenshots/Tampilan_Tugas_Pertemuan1.jpeg)
