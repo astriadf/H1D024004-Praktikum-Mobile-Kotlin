@@ -38,9 +38,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             JualanTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
-                    LayoutTentangJualan(
-                        modifier = Modifier.padding(innerPadding)
-                    )
+                    LayoutTentangJualan()
                 }
             }
         }
@@ -65,24 +63,12 @@ fun LayoutTentangJualan(
                 .background(Color.Gray),
             contentAlignment = Alignment.Center
         ) {
-            Column(
-                horizontalAlignment = Alignment.CenterHorizontally
-            ) {
-
-                Image(
-                    painter = painterResource(
-                        id = R.drawable.ic_launcher_round
-                    ),
-                    contentDescription = "Jualan".toString(),
-                    modifier = Modifier.size(150.dp),
-                    contentScale = ContentScale.Crop
-                )
-
-                Text("Jualan", color = Color.White, fontWeight = FontWeight.Bold)
-            }
+            Text("Jualan", color = Color.White, fontWeight = FontWeight.Bold)
         }
 
-        Spacer(modifier = Modifier.height(24.dp))
+        Spacer(
+            modifier = Modifier.height(24.dp)
+        )
 
         Text(
             text = "Tentang Jualan",
@@ -90,7 +76,9 @@ fun LayoutTentangJualan(
             fontWeight = FontWeight.Bold
         )
 
-        Spacer(modifier = Modifier.height(16.dp))
+        Spacer(
+            modifier = Modifier.height(16.dp)
+        )
 
         Text(
             text = "Aplikasi Jualan adalah platform yang mewadahi produk lokal UMKM di wilayah Kabupaten Purbalingga, Jawa Tengah.",
