@@ -14,7 +14,56 @@ sebagai tugas praktikum Pemrograman Mobile.
 | Pertemuan | Pertemuan ke-2    |
 
 
-## Tampilan Aplikasi
+## Tampilan Aplikasi Pertemuan 3
+
+### 1. Komponen Utama
+
+**TopAppBar Aplikasi**  
+![TopAppBar Pertemuan 3](Screenshots/Tampilan_Tugas_Pertemuan3_TopAppBar.png)
+
+**Preview Kategori**  
+![Preview Category Pertemuan 3](Screenshots/Tampilan_Tugas_Pertemuan3_PreviewCategory.png)
+
+**Preview Produk**  
+![Preview Product Pertemuan 3](Screenshots/Tampilan_Tugas_Pertemuan3_PreviewProduct.png)
+
+---
+
+### 2. Mode Terang (Light Mode - Pertemuan 3)
+
+**Kategori Kerajinan (Light Mode)**  
+![Kerajinan Light Mode](Screenshots/Tampilan_Tugas_Pertemuan3_KlikProduk_KategoriKerajinan_LightMode.png)
+
+**Kategori Makanan (Light Mode)**  
+![Makanan Light Mode](Screenshots/Tampilan_Tugas_Pertemuan3_KlikProduk_KategoriMakanan_LightMode.png)
+
+**Kategori Minuman (Light Mode)**  
+![Minuman Light Mode](Screenshots/Tampilan_Tugas_Pertemuan3_KlikProduk_KategoriMinuman_LightMode.png)
+
+---
+
+### 3. Mode Gelap (Dark Mode - Pertemuan 3)
+
+**Kategori Kerajinan (Dark Mode)**  
+![Kerajinan Dark Mode](Screenshots/Tampilan_Tugas_Pertemuan3_KlikProduk_KategoriKerajinan_DarkMode.png)
+
+**Kategori Makanan (Dark Mode)**  
+![Makanan Dark Mode](Screenshots/Tampilan_Tugas_Pertemuan3_KlikProduk_KategoriMakanan_DarkMode.png)
+
+**Kategori Minuman (Dark Mode)**  
+![Minuman Dark Mode](Screenshots/Tampilan_Tugas_Pertemuan3_KlikProduk_KategoriMinuman_DarkMode.png)
+
+---
+
+### 4. Demo Aplikasi (Pertemuan 3)
+
+<video src="ScreenRecordings/Tampilan_Tugas_Pertemuan3.mp4" controls="controls" style="max-width: 100%;">
+  Browser Anda tidak mendukung pemutar video.
+</video>
+
+---
+
+## Tampilan Aplikasi Pertemuan 2
 
 ### 1. Light Mode (Pertemuan 2)
 
@@ -42,7 +91,7 @@ sebagai tugas praktikum Pemrograman Mobile.
 
 ---
 
-### 3. Lampiran Tugas Pertemuan 1
+## Lampiran Tugas Pertemuan 1
 
 **Tampilan Aplikasi Pertemuan 1**  
 ![Tugas Pertemuan 1](Screenshots/Tampilan_Tugas_Pertemuan1.jpeg)
