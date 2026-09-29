@@ -14,6 +14,55 @@ sebagai tugas praktikum Pemrograman Mobile.
 | Pertemuan | Pertemuan ke-2    |
 
 
+## Tampilan Aplikasi Pertemuan 4
+
+### 1. Komponen Utama & Preview
+
+**Menu Action di AppBar**  
+![Menu Action di AppBar](Screenshots/Tampilan_Tugas_Pertemuan4_MenuActiondiAppBar.png)
+
+**Preview Daftar Produk (`DaftarProdukScreenPreview`)**  
+![Daftar Produk Screen Preview](Screenshots/Tampilan_Tugas_Pertemuan4_DaftarProdukScreenPreview.png)
+
+**Preview Detail Produk (`DetailProductScreenPreview`)**  
+![Detail Produk Screen Preview](Screenshots/Tampilan_Tugas_Pertemuan4_DetailProductScreenPreview.png)
+
+**Preview Hubungi Kami (`HubungiKamiScreenPreview`)**  
+![Hubungi Kami Screen Preview](Screenshots/Tampilan_Tugas_Pertemuan4_HubungiKamiScreenPreview.png)
+
+---
+
+### 2. Mode Terang (Light Mode - Pertemuan 4)
+
+**Halaman Daftar Produk (Light Mode)**  
+![Daftar Produk Light Mode](Screenshots/Tampilan_Tugas_Pertemuan4-LightMode_DaftarProdukScreen.jpeg)
+
+**Halaman Detail Produk (Light Mode)**  
+![Detail Produk Light Mode](Screenshots/Tampilan_Tugas_Pertemuan4-LightMode_DetailProdukScreen.jpeg)
+
+**Halaman Hubungi Kami (Light Mode)**  
+![Hubungi Kami Light Mode](Screenshots/Tampilan_Tugas_Pertemuan4-LightMode_HubungiKamiScreen.jpeg)
+
+---
+
+### 3. Mode Gelap (Dark Mode - Pertemuan 4)
+
+**Halaman Daftar Produk (Dark Mode)**  
+![Daftar Produk Dark Mode](Screenshots/Tampilan_Tugas_Pertemuan4-DarkMode_DaftarProdukScreen.jpeg)
+
+**Halaman Detail Produk (Dark Mode)**  
+![Detail Produk Dark Mode](Screenshots/Tampilan_Tugas_Pertemuan4-DarkMode_DetailProdukScreen.jpeg)
+
+**Halaman Hubungi Kami (Dark Mode)**  
+![Hubungi Kami Dark Mode](Screenshots/Tampilan_Tugas_Pertemuan4-DarkMode_HubungiKamiScreen.jpeg)
+
+---
+
+### 4. Demo Aplikasi (Pertemuan 4)
+![Demo Aplikasi Pertemuan 4](ScreenRecordings/Tampilan_Tugas_Pertemuan4.gif)
+
+---
+
 ## Tampilan Aplikasi Pertemuan 3
 
 ### 1. Komponen Utama
